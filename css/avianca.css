@@ -1,0 +1,38 @@
+.aviancalModal p{
+	color: #746F6F;
+	font-size: 1.4rem;
+    font-weight: 500;
+	
+}	
+
+.aviancalModal h5{
+	font-size: 1.6rem !important;		
+}
+
+.aviancalModal .modal-dialog {
+    width: 480px !important;
+}
+
+.aviancalModal .btn-modal {
+    color: #000000;
+	font-weight: 500;
+    background-color: #FFFFFF;
+    border-color: #000000;
+	border-width: 2px;
+	border-radius: 8px ;
+	height: 45px;
+}
+
+.aviancalModal .font-weight-bold {
+    font-weight: 790!important;
+}
+
+.aviancalModal .modal-footer{
+   background-color: #A1192B !important;	
+}	
+	
+.aviancalModal .frame {
+    border-radius: 15px 2px 15px 2px ;
+    border: solid 2px #A1192B;
+    background-color: #ffffff;
+}
